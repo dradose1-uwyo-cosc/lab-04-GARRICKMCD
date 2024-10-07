@@ -1,12 +1,5 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Garrick McDonald
+## Lab 04
+## October 6, 2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
